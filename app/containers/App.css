@@ -1,0 +1,21 @@
+header h1{
+  font-size: 14px;
+  text-align: center;
+}
+
+form {
+  width: 45%;
+  margin: 0 auto;
+}
+
+form input {
+  padding: 5px;
+  margin-botton: 4px;
+}
+
+form button {
+  padding: 8px;
+  font-size: 17px;
+  background-color: #51b2db;
+  color: black;
+}
